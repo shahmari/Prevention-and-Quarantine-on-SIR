@@ -1,0 +1,8 @@
+beta=1
+gamma=1/5
+TS=0.1
+ND=70
+S0=0.99
+I0=0.01
+MeanFieldTheory
+in Network we have 111000 sites

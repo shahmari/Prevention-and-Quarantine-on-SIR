@@ -1,0 +1,8 @@
+beta=1
+gamma=1/5
+TS=1
+ND=200
+S0=0.99
+I0=0.01
+pb=0.4
+MeanFieldTheory
